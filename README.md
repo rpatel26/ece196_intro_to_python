@@ -1,1 +1,1 @@
-# ece196_intro_to_python
+# ECE 196 -- Intro to Python
